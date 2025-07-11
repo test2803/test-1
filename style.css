@@ -86,3 +86,6 @@ footer {
 footer p {
   margin: 0.5rem 0;
 }
+li{
+  text-decoration: none;
+}
