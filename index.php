@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JFORE Construction</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">JFORE</div>
+    <nav>
+      <a href="about.php">About</a>
+      <a href="services.php">Services</a>
+      <a href="contact.php">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-overlay"></div>
+    <div class="hero-text">
+      <h1>Strategy in Construction</h1>
+      <p>Discover how JFORE is transforming infrastructure in Ruvuma and beyond. Building a better tomorrow starts today.</p>
+      <button><a href="https://youtu.be/mbwuj58UEPg" style="text-decoration: none;color:white;">Watch now</button>
+    </div>
+  </section>
+
+  <footer id="contact">
+    <p><strong>Location:</strong> Madaba, Ruvuma, Tanzania</p>
+    <p><strong>Phone:</strong> +255 749 684 552</p>
+    <p><strong>Email:</strong> info@jfore.co.tz</p>
+    <p>&copy; 2025 JFORE Construction. All rights reserved.</p>
+    <p><a href="https://kireri2803.github.io/ericknyakireri/contact.html" style="text-decoration: none;color:white;">Published by ERICK NYAKIRERI | Coded by Nyakireri</a></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
