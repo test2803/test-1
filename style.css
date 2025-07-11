@@ -87,5 +87,5 @@ footer p {
   margin: 0.5rem 0;
 }
 li{
-  text-decoration: none;
+  list-style-type: none;
 }
