@@ -97,3 +97,18 @@ body, html {
   color: #555;
   line-height: 1.5;
 }
+.btn {
+  display: inline-block;
+  background-color: #a4c639;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #91b92c;
+}
